@@ -26,4 +26,3 @@ By the end of each day, you’ll have a clear overview of what you achieved and 
 2. Run the script:
 
 ```bash
-python task_organizer.py
